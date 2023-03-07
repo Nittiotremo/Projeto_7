@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\bin\Debug\Projeto_7.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\bin\Debug\Projeto_7.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\bin\Debug\Projeto_7.pdb
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\obj\Debug\Projeto_7.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\obj\Debug\Projeto_7.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\obj\Debug\Projeto_7.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\obj\Debug\Projeto_7.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\obj\Debug\Projeto_7.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_7\Projeto_7\obj\Debug\Projeto_7.pdb
